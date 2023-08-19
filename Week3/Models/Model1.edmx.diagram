@@ -6,7 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="67befd5f92f444bdaac4e7680d57fa02" Name="Diagram1" >
         <EntityTypeShape EntityType="Model1.Student" Width="1.5" PointX="0.75" PointY="0.75" />
-        <EntityTypeShape EntityType="Model1.Unit" Width="1.5" PointX="4.5" PointY="0.875" />
+        <EntityTypeShape EntityType="Model1.Unit" Width="1.5" PointX="4.5" PointY="0.75" />
         <AssociationConnector Association="Model1.StudentUnit" />
       </Diagram>
     </edmx:Diagrams>
